@@ -1,8 +1,3 @@
-# myDataAnalyst
-First git repository
-<br> On Data Analyst
-
-
  #  Customer Segmentation Analysis
  #  Project Overview
 
