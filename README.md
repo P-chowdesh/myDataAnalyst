@@ -35,45 +35,45 @@ This dataset contains shopping information from 10 different shopping malls betw
 The dataset consists of customer transaction records including demographic information, product category, purchase quantity, and payment details. It helps in analyzing revenue patterns, customer segments, and overall business performance.
 <br>
 ## Tools Used
-- SQL< br>
-- EXCEL< br>
-- POWER BI< br>
-- DAX< br>
-- Power Query< br>
-- ChartGPT(GenAI)< br>
+- SQL<br>
+- EXCEL<br>
+- POWER BI<br>
+- DAX<br>
+- Power Query<br>
+- ChartGPT(GenAI)<br>
 
 - ## Project Workflow
-1. Data Cleaning< br>
-2. Exploratory Data Analysis (EDA)< br>
-3. Customer Segmentation< br>
-4. Data Visualization< br>
-5. Business Insights< br>
+1. Data Cleaning<br>
+2. Exploratory Data Analysis (EDA)<br>
+3. Customer Segmentation<br>
+4. Data Visualization<br>
+5. Business Insights<br>
 
 ## Insights:- 
 Revenue Performance:-
 Customer Segmentation Insights:-
-      Female customers contribute approximately 60% of total transactions, making them the dominant segment.< br>
+      Female customers contribute approximately 60% of total transactions, making them the dominant segment.<br>
       Working-age customers (21–44 years) generate the highest purchase activity.<br>
-      Adults and middle-aged customers drive overall business performance.< br>
+      Adults and middle-aged customers drive overall business performance.<br>
 Category Insights:-
-      Clothing is the highest-performing category in transaction volume.< br>
-      Cosmetics and Food & Beverage show strong mid-level demand.< br>
-      Books and Technology have lower transaction frequency.< br>
-      Customer demand is concentrated in fashion and lifestyle segments.< br>
+      Clothing is the highest-performing category in transaction volume. br>
+      Cosmetics and Food & Beverage show strong mid-level demand.<br>
+      Books and Technology have lower transaction frequency.<br>
+      Customer demand is concentrated in fashion and lifestyle segments.<br>
 Payment Method Insights:-
-      Cash (45%) is the most preferred payment method.< br>
-      Credit Card usage is strong (35%), showing purchasing power.< br>
-      Digital payments (Credit + Debit) exceed 50%, indicating growing digital adoption.< br>
+      Cash (45%) is the most preferred payment method.<br>
+      Credit Card usage is strong (35%), showing purchasing power.<br>
+      Digital payments (Credit + Debit) exceed 50%, indicating growing digital adoption.<br>
 # Business Recommendations (suggestions):-
  Focus on High-Value Segments:-
-        Target female and working-age customers with personalized campaigns.< br>
+        Target female and working-age customers with personalized campaigns.<br>
  Strengthen Top Categories:-
-                    Expand Clothing inventory and introduce bundle offers.< br>
+                    Expand Clothing inventory and introduce bundle offers.<br>
 Improve Low-Performing Categories:-
-                    Promote Books and Technology through discounts or combo deals.< br>
+                    Promote Books and Technology through discounts or combo deals.<br>
  Encourage Digital Payments:-
-                    Offer cashback or rewards for card payments.< br>
-                     Reduce cash handling operational cost.< br>
+                    Offer cashback or rewards for card payments.<br>
+                     Reduce cash handling operational cost.<br>
 Increase AOV:-
                     Introduce product bundling and cross-selling strategies.<br>
 
